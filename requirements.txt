@@ -13,6 +13,13 @@ selenium
 webdriver-manager
 undetected-chromedriver
 cloudscraper
+scrapy
+pinecone-client
+langchain
+pinecone
+sentence-transformers
+
+
 
 
 

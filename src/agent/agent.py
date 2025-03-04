@@ -5,6 +5,9 @@ import logging
 from model.ollama_model import OllamaHandler
 from langchain.agents import initialize_agent, AgentType
 
+#import warnings
+#warnings.filterwarnings("ignore", category=UserWarning, module="langchain")
+
 
 class Agent:
     """Intelligent agent utilizing multiple tools via LangChain."""
